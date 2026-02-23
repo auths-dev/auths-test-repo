@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rid": "sha256:aa7c72382b7b9da5daa1fbda6a1ae785548c0f7213633a174db2d696af297ecb",
+  "issuer": "did:keri:E8jshE3K59IAnUPPx2o1X9yrAUonzLFCmQMA58TILhI4",
+  "subject": "did:key:z6MktXUzrsMvtmynYqNNfb5TXS1Srn5rPfHhgaUSWAjywQ5Z",
+  "device_public_key": "d118960bdc5f13605f064e505e02429b91dec63c88861c17f93fe089facd1734",
+  "device_signature": "50b0cbc026d74f5e94999b832be78a7dbba64407880ef7cc5cf7b105a9b25472433ac9316c3995470145ac7d10099cd8076c2a7a59e6c4f242e22eb56155e60d",
+  "timestamp": "2026-02-23T12:45:33.389460Z",
+  "note": "Test artifact for auths-verify",
+  "payload": {
+    "artifact_type": "file",
+    "digest": {
+      "algorithm": "sha256",
+      "hex": "aa7c72382b7b9da5daa1fbda6a1ae785548c0f7213633a174db2d696af297ecb"
+    },
+    "name": "hello.tar.gz",
+    "size": 372
+  },
+  "capabilities": [
+    "sign_release"
+  ]
+}
