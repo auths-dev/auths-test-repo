@@ -1,0 +1,12 @@
+{
+  "state": {
+    "prefix": "z6Mkon3Necd6NkkyfoGoHxid2znGc59LU3K7mubaRcFbLfLX",
+    "sequence": 0,
+    "current_keys": ["Diojj3XQJ8ZX9UtstPLpdcspnCb8dlBIb83SIAbQPb1w"],
+    "next_commitment": [],
+    "last_event_said": "ESaid0",
+    "is_abandoned": false,
+    "threshold": 1,
+    "next_threshold": 1
+  }
+}
