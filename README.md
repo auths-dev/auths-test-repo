@@ -22,7 +22,17 @@ cd auths-test-repo
 auths verify HEAD
 ```
 
+## Initialize Auths for Repo
+
+Sync the trusted signing keys from the Auths registry into this repo so that commit signatures can be verified locally and in CI.
+
+```bash
+auths signers sync --output .auths/allowed_signers
+```
+
 ## Verify the artifact
+
+Check that `hello.tar.gz` hasn't been tampered with by validating its cryptographic attestation.
 
 ```bash
 auths artifact verify hello.tar.gz
