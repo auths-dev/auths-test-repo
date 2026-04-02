@@ -40,5 +40,5 @@ Add this to any HTML page:
 ## Learn more
 
 - [Auths CLI](https://github.com/auths-dev/auths) — The CLI tool
-- [Quickstart](https://auths.dev/docs/quickstart) — Get started in 5 minutes
-- [GitHub Action](https://github.com/marketplace/actions/auths-verify) — CI verification
+- [Quickstart](https://docs.auths.dev/getting-started/install/) — Get started in 5 minutes
+- [GitHub Action](https://github.com/marketplace/actions/verify-commit-signatures-with-auths) — CI verification
