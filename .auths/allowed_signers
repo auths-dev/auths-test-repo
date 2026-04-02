@@ -1,0 +1,5 @@
+# Auths allowed signers for auths-test-repo
+# Key 1: Auths Demo (demo@auths.dev) — signs commits d7dec43+
+z6MkhPJCPXd5A9VN4wScJkxTtz6de7egZQx78vsiAT1vg3PZ@auths.local namespaces="git" ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICuPK6OfYp7ngZp40Q+Dsrahhks472v6gPIMD0upCRnM
+# Key 2: Test User (test@example.com) — signs commits d760390, 58ebae3
+test@example.com namespaces="git" ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINEYlgvcXxNgXwZOUF4CQpuR3sY8iIYcF/k/4In6zRc0
